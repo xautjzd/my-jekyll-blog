@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Gingko
+description: "Some notes about life and work."
+meta_description: "First think, then do, last summarize."
 
 aboutPage: true
 
@@ -9,17 +9,17 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'http://xautjzd.github.io'
+google_analytics: 'UA-42925167-1'
 disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: 'xautjzd'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://xautjzd.github.io'
+author:         'xautjzd'
+authorTwitter:  'xautjzd'
 
-permalink:       /:year/:title/
+permalink:       /:year/:month/:day/:title/
 
 defaults:
     -
