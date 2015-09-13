@@ -1,13 +1,11 @@
 <nav class="main-nav">
     {% if page.url != "/index.html" %}
-        <a href="{{ site.baseurl }}"> <span class="arrow">←</span>主页 </a>
+    <a href="{{ site.baseurl }}"> <span class="arrow">←</span>主页 </a>
     {% endif %}
 
-        <a href="{{ site.baseurl }}books">书单 </a>
-    {% if page.url != "/about/" %}
-        {% if site.aboutPage %}
-            <a href="{{ site.baseurl }}about">关于我 </a>
-        {% endif %}
+    <a href="{{ site.baseurl }}books">书单 </a>
+    {% if site.aboutPage %}
+    <a href="{{ site.baseurl }}about">关于我 </a>
     {% endif %}
     <a class="cta" href="{{ site.baseurl }}feed.xml">订阅</a>
 </nav>
