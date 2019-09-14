@@ -1,4 +1,4 @@
-name: Gingko
+title: Gingko
 description: "Some notes about life and work."
 meta_description: "First think, then do, last summarize."
 
@@ -8,14 +8,13 @@ markdown: kramdown
 highlighter: pygments
 
 paginate: 20
-baseurl: /
+baseurl: ""
 domain_name: 'http://xautjzd.github.io'
 google_analytics: 'UA-42925167-1'
 disqus: false
 disqus_shortname: 'gingko'
 
 # Details for the RSS feed generator
-url:            'http://xautjzd.github.io'
 author:         'GingKo'
 authorTwitter:  'xautjzd'
 
@@ -40,4 +39,5 @@ defaults:
             type: drafts
         values:
             layout: post
-plugins: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
