@@ -56,13 +56,14 @@ za		=> fold/unfold
  使用markder方式，则做如下配置：
 
 	:set foldmethod=marker
+
  或
  	
 	:set fdm=marker
  
-默认的marker折叠/展开标记为`{{{`和`}}}`. 
+默认的marker折叠/展开标记为 {% raw %}`{{{}}}`{% endraw %}
 
-将要折叠/展开的代码通过`{{{ }}}`包含起来即可。当然也可以自定义标记。定义方法如下：
+将要折叠/展开的代码通过 {% raw %}`{{{}}}`{% endraw %}  包含起来即可。当然也可以自定义标记。定义方法如下：
 
 	:set foldmarker= start,end
 	eg: set foldmarker= /*,*/

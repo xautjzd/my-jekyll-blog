@@ -1,23 +1,18 @@
 title: Gingko
-description: "Some notes about life and work."
-meta_description: "First think, then do, last summarize."
+description: Some notes about life and work.
+meta_description: First think, then do, last summarize.
 
-aboutPage: true
-
-markdown: kramdown
-
-paginate: 20
+url: https://xautjzd.github.io
 baseurl: ""
-domain_name: 'http://xautjzd.github.io'
-google_analytics: 'UA-42925167-1'
+excerpt_separator: <!-- more -->
+paginate: 20
+google_analytics: UA-42925167-1
 disqus: false
-disqus_shortname: 'gingko'
+disqus_shortname: gingko
 
 # Details for the RSS feed generator
 author:         'GingKo'
 authorTwitter:  'xautjzd'
-
-permalink:       /:year/:month/:day/:title/
 
 defaults:
     -

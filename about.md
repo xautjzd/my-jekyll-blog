@@ -1,7 +1,6 @@
 ---
 title: About
 permalink: /about/
-profile: true
 ---
 
 三流程序员，目前就职于NetEase。热爱开源，喜欢尝鲜，钟爱Linux。目前已使用过Ubuntu,
