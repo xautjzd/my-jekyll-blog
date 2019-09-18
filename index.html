@@ -4,11 +4,9 @@ layout: default
 
 <ul>
   {% for post in paginator.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+      <h1 id="title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
     {{ post.excerpt }}
-    <p><a href="{{ post.url }}">ReadMore &raquo;</a></p>
-  </li>
+    <p><a href="{{ post.url }}">更多 &raquo;</a></p>
   {% endfor %}
 </ul>
 

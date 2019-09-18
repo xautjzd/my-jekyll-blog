@@ -572,8 +572,10 @@ dd p:first-child {
 #header {
   position: relative;
   height: 46px;
-  width: 100%;
+  width: 800px;
   zoom: 1;
+  font-size: 1.2em;
+  box-shadow: 0 0 5px #cd596b;
 }
 
 #brand {
@@ -596,7 +598,7 @@ dd p:first-child {
 #nav {
   position: relative;
   max-width: 800px;
-  *width: 800px;
+  width: 500px;
   height: 46px;
   margin: 0 auto;
   background: #ece4d8;
@@ -618,4 +620,11 @@ dd p:first-child {
 #nav select {
   margin-top: 8px;
   font-size: 16px;
+}
+
+h1#title {
+  font-weight: bold;
+  font-size: 1.5em;
+  font-family: "Helvetica Neue", "Helvetica", arial, sans-serif;
+  line-height: 46px;
 }
