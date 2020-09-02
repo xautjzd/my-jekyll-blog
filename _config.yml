@@ -14,6 +14,10 @@ disqus_shortname: gingko
 author:         'GingKo'
 authorTwitter:  'xautjzd'
 
+theme: gingko
+plugins: 
+  - jekyll-paginate
+
 defaults:
     -
         scope:
@@ -33,5 +37,3 @@ defaults:
             type: drafts
         values:
             layout: post
-plugins: 
-  - jekyll-paginate

@@ -5,7 +5,7 @@ date: 2014-03-15 20:47
 comments: true
 categories: [Linux, C] 
 ---
-![](img /images/20140315.jpg)
+![](/images/20140315.jpg)
 
 ## 什么是Segment fault?
 
