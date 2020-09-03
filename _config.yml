@@ -14,7 +14,7 @@ disqus_shortname: gingko
 author:         'GingKo'
 authorTwitter:  'xautjzd'
 
-remote_theme: gingko
+remote_theme: xautjzd/jekyll-theme-gingko
 plugins: 
   - jekyll-paginate
 
