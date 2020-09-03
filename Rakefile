@@ -15,4 +15,6 @@ task :new do
     file.puts "categories: "
     file.puts "---"
   end
+
+  system "vim #{@post_name}"
 end
