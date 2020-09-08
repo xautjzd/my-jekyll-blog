@@ -3,7 +3,7 @@ layout: post
 title: "有关Markdown的两款工具介绍"
 date: 2014-05-24 14:54
 comments: true
-categories: [Tech, Tool]
+categories: Tool
 ---
 
 ![](/images/20140524.jpg)

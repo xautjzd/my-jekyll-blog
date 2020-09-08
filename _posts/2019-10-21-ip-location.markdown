@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IP 归属地查询"
-category: [Tech, Tools]
+category: Tool
 ---
 
 这里分享下几个不错的 ip 地址库:
