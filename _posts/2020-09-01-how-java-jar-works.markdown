@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Java jar 是如何执行的?"
-category: [Tech, Java]
+category: [Java]
 ---
 
 Java 作为一门古老又流行的编程语言，想必大家或多或少都听过，甚至使用过，也有一部分人甚至在生产环境部署过 java 应用。可你了解过 java 程序是如何加载运行的吗？如果你的答案是 `yes`, 那么建议不用浪费时间花费在已知的知识点了。

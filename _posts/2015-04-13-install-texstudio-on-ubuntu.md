@@ -2,7 +2,7 @@
 layout: post
 title: "Ubuntu安装TexStudio"
 description: ""
-category: Tech
+category: Tool
 tags: [LaTex]
 ---
 

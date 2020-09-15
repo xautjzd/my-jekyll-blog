@@ -2,7 +2,7 @@
 layout: post
 title: "Ubuntu14.04上搭建ShadowSocks服务"
 description: ""
-category: Tech
+category: Tool
 tags: []
 ---
 

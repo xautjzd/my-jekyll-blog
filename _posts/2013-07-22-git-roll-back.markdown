@@ -3,7 +3,7 @@ layout: post
 title: "Git的相关操作"
 date: 2013-07-22 11:33
 comments: true
-categories: Git 
+categories: Git
 ---
 
 ##查看Git远程库地址
