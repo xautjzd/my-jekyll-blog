@@ -1,3 +1,9 @@
+PATH
+  remote: /Users/gingko/Documents/jekyll-theme-gingko
+  specs:
+    jekyll-theme-gingko (0.1.1)
+      jekyll (~> 4.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -11,8 +17,6 @@ GEM
     eventmachine (1.2.7)
     ffi (1.11.1)
     forwardable-extended (2.6.0)
-    gingko (0.1.1)
-      jekyll (~> 4.1)
     http_parser.rb (0.6.0)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
@@ -68,10 +72,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  gingko
   jekyll (~> 4.2)
   jekyll-feed (~> 0.12)
   jekyll-paginate
+  jekyll-theme-gingko!
 
 BUNDLED WITH
    2.1.4
