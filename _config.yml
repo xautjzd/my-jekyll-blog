@@ -2,8 +2,8 @@ title: Gingko
 description: Some notes about life and work.
 meta_description: First think, then do, last summarize.
 
-url: https://xautjzd.github.io
 baseurl: ""
+url: https://xautjzd.github.io
 excerpt_separator: <!-- more -->
 paginate: 20
 google_analytics: UA-42925167-1
@@ -14,24 +14,8 @@ disqus_shortname: gingko
 author:         'GingKo'
 authorTwitter:  'xautjzd'
 
-defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post
+theme: gingko
+#theme: jekyll-theme-gingko
+
 plugins: 
   - jekyll-paginate
