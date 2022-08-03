@@ -14,9 +14,11 @@ disqus_shortname: gingko
 author:         'GingKo'
 authorTwitter:  'xautjzd'
 
-# theme: gingko
-# remote-theme: jekyll-theme-gingko
-theme: jekyll-theme-gingko
+## when publish github, uncomment this line
+remote-theme: jekyll-theme-gingko
+
+# when use local, uncomment this line
+# theme: jekyll-theme-gingko
 
 plugins: 
   - jekyll-paginate
