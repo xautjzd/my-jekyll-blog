@@ -15,7 +15,7 @@ author:         'GingKo'
 authorTwitter:  'xautjzd'
 
 ## when publish github, uncomment this line
-remote-theme: jekyll-theme-gingko
+remote-theme: xautjzd/jekyll-theme-gingko
 
 # when use local, uncomment this line
 # theme: jekyll-theme-gingko
