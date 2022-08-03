@@ -15,8 +15,8 @@ author:         'GingKo'
 authorTwitter:  'xautjzd'
 
 # theme: gingko
-remote-theme: xautjzd/jekyll-theme-gingko
-# theme: jekyll-theme-gingko
+# remote-theme: jekyll-theme-gingko
+theme: jekyll-theme-gingko
 
 plugins: 
   - jekyll-paginate

@@ -65,7 +65,7 @@ GEM
     unicode-display_width (1.6.0)
 
 PLATFORMS
-  ruby
+  x86_64-darwin-18
 
 DEPENDENCIES
   jekyll (~> 4.2)
@@ -74,4 +74,4 @@ DEPENDENCIES
   jekyll-theme-gingko
 
 BUNDLED WITH
-   2.1.4
+   2.3.19
