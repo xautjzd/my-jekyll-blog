@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-喜欢编程，除此之外看一些历史、经济学相关的杂书。
+赠人玫瑰，手留余香。
 
 **联系方式：**
 
@@ -12,5 +12,3 @@ permalink: /about/
 - Email: xautjzd@gmail.com
 - Twitter: [xautjzd](https://www.twitter.com/xautjzd)
 - WeiBo: [xautjzd](http://weibo.com/xautjzd)
-
-{% include footer.html %}
