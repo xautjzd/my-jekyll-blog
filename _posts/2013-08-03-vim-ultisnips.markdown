@@ -3,7 +3,7 @@ layout: post
 title: "Vim的代码自动补齐插件——UltiSnips"
 date: 2013-08-03 15:12
 comments: true
-categories: [Linux, Vim]
+categories: [Editor, Vim]
 ---
 
 暑假时间充足，便又开始学习自己喜欢的Ruby。而学Ruby的最佳环境是Mac,其次是Linux,最次是Windows。Mac买不起，只能在Linux上折腾了，一台台式机装的Fedora17，自己的本是xp系统，装了不少微软的一套东西，毕竟教研室的项目都是在.net环境下进行的，不敢轻易换系统，所以便在本上装了个VirtualBox虚拟机，虚拟了一个Ubuntu。上面也配好了Ruby环境，毕竟本方便，带到哪里都可以学，但平时的Linux编程都是在台式机下，毕竟性能比虚拟机好。

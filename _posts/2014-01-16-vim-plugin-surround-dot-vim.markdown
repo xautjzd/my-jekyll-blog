@@ -3,7 +3,7 @@ layout: post
 title: "vim插件之surround.vim"
 date: 2014-01-16 10:17
 comments: true
-categories: [Linux, Vim]
+categories: [Editor, Vim]
 ---
 ### Surround.vim插件简介
 

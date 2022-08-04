@@ -3,7 +3,7 @@ layout: post
 title: "Bash到oh-my-zsh的转变"
 date: 2013-08-27 18:14
 comments: true
-categories: [Vim,Linux]
+categories: [Editor, Vim]
 ---
 从开始使用到现在一直使用的bash,虽然以前听过ksh,csh,sh等，但都不曾用过，今年开始zsh便不断地出入在眼前，但没真正见人用过，也不知道效果咋样，所以也没做尝试。
 

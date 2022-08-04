@@ -3,7 +3,7 @@ layout: post
 title: "vim文件的折叠与展开方式"
 date: 2013-08-25 16:00
 comments: true
-categories: [Vim,Linux]
+categories: [Editor, Vim]
 ---
 最近一直在用Vim学习Ruby,但是一直有个问题困扰：
 

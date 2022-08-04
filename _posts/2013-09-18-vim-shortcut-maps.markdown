@@ -3,7 +3,7 @@ layout: post
 title: "Vim常用快捷键总结"
 date: 2013-09-18 19:55
 comments: true
-categories: [Vim,Linux]
+categories: [Editor, Vim]
 ---
 
 Vim的学习之路真的很长，永远有记不完的命令，永远会突然冒出一个新插件。不过我总算从Vim的荆棘中一路走过来了，现在真的是苦尽甘来，时刻体会它带给我的喜悦和惊奇。下面对我所学习所了解到的常用命令做一个基本总结：

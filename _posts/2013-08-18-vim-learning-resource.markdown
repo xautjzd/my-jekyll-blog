@@ -3,7 +3,7 @@ layout: post
 title: "Vim学习资源"
 date: 2013-08-18 13:48
 comments: true
-categories: [Vim,Linux]
+categories: [Editor, Vim]
 ---
 
 ### 实用的快捷方式

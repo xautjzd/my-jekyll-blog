@@ -3,7 +3,7 @@ layout: post
 title: "Vim下的的插件管理神器——Vundle"
 date: 2013-07-27 20:38
 comments: true
-categories: [Linux, Vim]
+categories: [Editor, Vim]
 ---
 断断续续用Vim也不少时间了，但是从来没有进行过复杂的Vim配置，每每需要插件都是网上寻求安装方式。但是当插件多了管理也便变得繁琐，最后终于让我结识了插件管理神器——Vundle，用过的人都说好用，所以我便也尝试了，网上也有一部分人采用pathogen来进行插件管理，但是据说没有Vundle好用，也便没有尝试，下面对我使用Vundle做一个总结。
 

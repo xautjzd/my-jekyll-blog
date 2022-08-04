@@ -3,7 +3,7 @@ layout: post
 title: "安装Powerline过程中的收获"
 date: 2013-08-16 22:12
 comments: true
-categories: Vim
+categories: [Editor, Vim]
 ---
 Powerline插件已经多次耳闻目见，但是一直没做尝试，今天再次看到便忍不住试了下，结果还没成功。可能是由于字体的原因吧，在找答案的过程中邂逅了airline,据说比powerline加载更快，而且还无需安装字体。所以便果断地换为airline。只需在vimrc中加入`bundle bling/vim-airline`即可。当然前提是在~/.vimrc中已有如下配置：
 
